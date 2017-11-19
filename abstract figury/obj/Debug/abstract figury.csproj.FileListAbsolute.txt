@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\bin\Debug\abstract figury.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\obj\Debug\abstract figury.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\bin\Debug\abstract figury.exe
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\bin\Debug\abstract figury.pdb
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\obj\Debug\abstract figury.exe
+c:\users\asia\documents\visual studio 2015\Projects\abstract figury\abstract figury\obj\Debug\abstract figury.pdb
